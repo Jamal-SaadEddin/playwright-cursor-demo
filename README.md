@@ -25,3 +25,40 @@ This demo was created for learning purposes, focusing on:
 
 ```bash
 npm install
+````
+
+## How to Run the Tests
+
+Run tests normally:
+
+```bash
+npx playwright test
+```
+
+Run tests and watch them in the browser:
+
+```bash
+npx playwright test --headed
+```
+
+Run tests using Playwright UI Mode:
+
+```bash
+npx playwright test --ui
+```
+
+## Test Report
+
+After running the tests, you can view the report using:
+
+```bash
+npx playwright show-report
+```
+
+## Notes
+
+This project is for practice and learning only.
+It is a small demo to explore Playwright basics and improve QA automation skills.
+
+```
+```
