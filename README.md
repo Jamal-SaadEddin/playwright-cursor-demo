@@ -59,6 +59,3 @@ npx playwright show-report
 
 This project is for practice and learning only.
 It is a small demo to explore Playwright basics and improve QA automation skills.
-
-```
-```
